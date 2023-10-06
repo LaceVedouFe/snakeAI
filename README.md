@@ -8,8 +8,9 @@ Clone the repository and install the required dependencies:
 
 ```
 git clone https://github.com/LaceVedouFe/snakeAI.git
-
-pip install tensorflow pygame
+```
+```
+pip install tensorflow, pygame
 ```
 ## Snake
 Snake is trained with reinforcement training.
